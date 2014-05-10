@@ -1,0 +1,7 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "type",
+ "id": "buffer",
+ "description": "Byte buffer representation.",
+ "schema": "string"
+}
