@@ -4,5 +4,5 @@ module.exports = new transformer.Type({
   // @context and type filled in automatically.
   'id': 'buffer',
   'description': 'Byte buffer representation.',
-  'schema': "string"
+  'schema': "Buffer"
 });
