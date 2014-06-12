@@ -3,5 +3,5 @@
  "type": "type",
  "id": "buffer",
  "description": "Byte buffer representation.",
- "schema": "string"
+ "schema": "Buffer"
 }
